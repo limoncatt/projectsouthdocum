@@ -1,12 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-04-06T18:08:59.197Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="wROjtBRrVg5VWrgTUbRU" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-06T18:10:12.856Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="K59CqNZIhx4X6ZQaK3Fc" version="24.2.2" type="github">
   <diagram name="Strona-1" id="uI2bXab8AUj78JsQwhyn">
     <mxGraphModel dx="719" dy="369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="OVItRbxoTBf1ethGUC-Q-2" value="Dash&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVItRbxoTBf1ethGUC-Q-1">
+        <mxCell id="OVItRbxoTBf1ethGUC-Q-3" value="Dash" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVItRbxoTBf1ethGUC-Q-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="230" as="targetPoint" />
+            <mxPoint x="470" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OVItRbxoTBf1ethGUC-Q-1" value="Main Mechanics&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
