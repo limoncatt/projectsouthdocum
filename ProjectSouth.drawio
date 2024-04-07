@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T05:37:24.264Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="lZLBZdzWmsOnCf2k-fsZ" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-07T05:41:30.479Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="i-apC2xC-PvjxuzkmTUW" version="24.2.2" type="github">
   <diagram name="Strona-1" id="uI2bXab8AUj78JsQwhyn">
     <mxGraphModel dx="719" dy="369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,6 +32,14 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="120" y="360" as="targetPoint" />
             <mxPoint x="130" y="330" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MONSNDeDBv9v0uFeOozm-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OVItRbxoTBf1ethGUC-Q-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="20" y="280" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="OVItRbxoTBf1ethGUC-Q-8" value="Energy Holders are located at the &quot;The deadman&#39;s mountains&quot; but have a chance to spawn in a ches&lt;span style=&quot;background-color: initial;&quot;&gt;t&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;horizontal=1;" parent="1" vertex="1">
@@ -105,6 +113,20 @@
         </mxCell>
         <mxCell id="MONSNDeDBv9v0uFeOozm-3" value="Scares off bots that escaped the facility, the friendly ones are not touched" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MONSNDeDBv9v0uFeOozm-4" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;" vertex="1" parent="1">
+          <mxGeometry x="760" y="120" width="40" height="1700" as="geometry" />
+        </mxCell>
+        <mxCell id="MONSNDeDBv9v0uFeOozm-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MONSNDeDBv9v0uFeOozm-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MONSNDeDBv9v0uFeOozm-9" value="Deadman&#39;s mountains" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="520" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MONSNDeDBv9v0uFeOozm-11" value="They are located at the south of the map, this is where the original facility located, after the outbreak, it was abandoned by humans and is packed with bots" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="600" width="120" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
