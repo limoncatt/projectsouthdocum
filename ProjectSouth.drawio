@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T05:48:29.657Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="n8u-muLdivL6me-6NHVC" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-22T09:59:10.166Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="9ky87me0Uf_43tZsSpLZ" version="24.4.0" type="github">
   <diagram name="Strona-1" id="uI2bXab8AUj78JsQwhyn">
-    <mxGraphModel dx="834" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1002" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,7 +34,7 @@
             <mxPoint x="130" y="330" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MONSNDeDBv9v0uFeOozm-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="OVItRbxoTBf1ethGUC-Q-8" target="MONSNDeDBv9v0uFeOozm-9">
+        <mxCell id="MONSNDeDBv9v0uFeOozm-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="OVItRbxoTBf1ethGUC-Q-8" target="MONSNDeDBv9v0uFeOozm-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="540" as="targetPoint" />
             <Array as="points">
@@ -96,12 +96,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MONSNDeDBv9v0uFeOozm-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jzNnugBUa8Sxr_mmBCBc-14">
+        <mxCell id="MONSNDeDBv9v0uFeOozm-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzNnugBUa8Sxr_mmBCBc-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MONSNDeDBv9v0uFeOozm-2" value="What for" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MONSNDeDBv9v0uFeOozm-1">
+        <mxCell id="MONSNDeDBv9v0uFeOozm-2" value="What for" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="MONSNDeDBv9v0uFeOozm-1" vertex="1" connectable="0">
           <mxGeometry x="-0.0424" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -112,31 +112,25 @@
         <mxCell id="jzNnugBUa8Sxr_mmBCBc-17" value="To use the light u need to take it out and press LMB after which you have to wait 10 seconds and it will turn on" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="360" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MONSNDeDBv9v0uFeOozm-3" value="Scares off bots that escaped the facility, the friendly ones are not touched" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MONSNDeDBv9v0uFeOozm-3" value="Scares off bots that escaped the facility, the friendly ones are not touched" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="360" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="MONSNDeDBv9v0uFeOozm-4" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;" vertex="1" parent="1">
+        <mxCell id="MONSNDeDBv9v0uFeOozm-4" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;" parent="1" vertex="1">
           <mxGeometry x="760" y="120" width="40" height="1700" as="geometry" />
         </mxCell>
-        <mxCell id="MONSNDeDBv9v0uFeOozm-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MONSNDeDBv9v0uFeOozm-9" target="MONSNDeDBv9v0uFeOozm-11">
+        <mxCell id="MONSNDeDBv9v0uFeOozm-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="MONSNDeDBv9v0uFeOozm-9" target="MONSNDeDBv9v0uFeOozm-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="550" as="targetPoint" />
             <mxPoint x="360" y="500" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MONSNDeDBv9v0uFeOozm-9" value="Deadman&#39;s mountains" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MONSNDeDBv9v0uFeOozm-9" value="Deadman&#39;s mountains" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="480" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MONSNDeDBv9v0uFeOozm-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MONSNDeDBv9v0uFeOozm-11" target="MONSNDeDBv9v0uFeOozm-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="MONSNDeDBv9v0uFeOozm-11" value="They are located at the south of the map, this is where the original facility located, after the outbreak, it was abandoned by humans and is packed with bots" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MONSNDeDBv9v0uFeOozm-11" value="They are located at the south of the map, this is where the original facility located, after the outbreak, it was abandoned by humans and is packed with bots" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="560" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="MONSNDeDBv9v0uFeOozm-14" value="They are marked with a waypoint with text &quot; ERROR 420: Anomaly found, but the type is not initalized.&quot;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="520" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="MONSNDeDBv9v0uFeOozm-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MONSNDeDBv9v0uFeOozm-18" target="MONSNDeDBv9v0uFeOozm-9">
+        <mxCell id="MONSNDeDBv9v0uFeOozm-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MONSNDeDBv9v0uFeOozm-18" target="MONSNDeDBv9v0uFeOozm-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="500" y="415" />
@@ -144,8 +138,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MONSNDeDBv9v0uFeOozm-18" value="There is a lot of carbon monoxide that can kill you" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+        <mxCell id="MONSNDeDBv9v0uFeOozm-18" value="There is a lot of carbon monoxide that can kill you" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" parent="1" vertex="1">
           <mxGeometry x="520" y="360" width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="7Y2TvZWWYKGCcJUMAK7M-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7Y2TvZWWYKGCcJUMAK7M-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7Y2TvZWWYKGCcJUMAK7M-1" value="Unlucky&amp;nbsp;&lt;div&gt;Street&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="305" y="763" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7Y2TvZWWYKGCcJUMAK7M-5" value="This is a street located right on the facility, which did not end up being a good idea. The house was built in 1996 as a first and last try for populating the island, everyone left as soon as the outbreak started." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="840" width="120" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
