@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-22T09:59:10.166Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="9ky87me0Uf_43tZsSpLZ" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-22T10:00:15.851Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="GSBY_ikuUQR0dd8n9gyZ" version="24.4.0" type="github">
   <diagram name="Strona-1" id="uI2bXab8AUj78JsQwhyn">
     <mxGraphModel dx="1002" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -93,7 +93,7 @@
         </mxCell>
         <mxCell id="jzNnugBUa8Sxr_mmBCBc-16" value="The use of them" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="jzNnugBUa8Sxr_mmBCBc-15" vertex="1" connectable="0">
           <mxGeometry x="0.1408" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MONSNDeDBv9v0uFeOozm-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzNnugBUa8Sxr_mmBCBc-14" edge="1">
@@ -147,7 +147,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7Y2TvZWWYKGCcJUMAK7M-1" value="Unlucky&amp;nbsp;&lt;div&gt;Street&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="305" y="763" width="70" height="40" as="geometry" />
+          <mxGeometry x="305" y="760" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7Y2TvZWWYKGCcJUMAK7M-5" value="This is a street located right on the facility, which did not end up being a good idea. The house was built in 1996 as a first and last try for populating the island, everyone left as soon as the outbreak started." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="840" width="120" height="200" as="geometry" />
