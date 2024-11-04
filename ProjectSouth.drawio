@@ -1,15 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2024-06-22T10:00:15.851Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="GSBY_ikuUQR0dd8n9gyZ" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Strona-1" id="uI2bXab8AUj78JsQwhyn">
-    <mxGraphModel dx="1002" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="724" dy="360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="OVItRbxoTBf1ethGUC-Q-3" value="Dash" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Tahoma;horizontal=1;" parent="1" source="OVItRbxoTBf1ethGUC-Q-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="200" as="targetPoint" />
-            <mxPoint x="360" y="140" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="OVItRbxoTBf1ethGUC-Q-4" value="Energy" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;horizontal=1;" parent="1" source="OVItRbxoTBf1ethGUC-Q-1" target="OVItRbxoTBf1ethGUC-Q-5" edge="1">
           <mxGeometry x="-0.004" y="-1" relative="1" as="geometry">
             <mxPoint x="260" y="200" as="targetPoint" />
@@ -24,9 +18,6 @@
         </mxCell>
         <mxCell id="OVItRbxoTBf1ethGUC-Q-5" value="Energy Replenishes itself after using a energy holder" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;horizontal=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="180" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="OVItRbxoTBf1ethGUC-Q-6" value="Takes 5 energy and has a one second reload" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;horizontal=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="180" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jzNnugBUa8Sxr_mmBCBc-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OVItRbxoTBf1ethGUC-Q-8" target="jzNnugBUa8Sxr_mmBCBc-10" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -49,36 +40,19 @@
         <mxCell id="OVItRbxoTBf1ethGUC-Q-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.473;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="OVItRbxoTBf1ethGUC-Q-5" target="OVItRbxoTBf1ethGUC-Q-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jzNnugBUa8Sxr_mmBCBc-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.999;exitY=0.419;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="jzNnugBUa8Sxr_mmBCBc-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="250" y="140" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="250" y="140" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jzNnugBUa8Sxr_mmBCBc-1" value="Energy minimum value is 10" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;horizontal=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="120" width="80" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="jzNnugBUa8Sxr_mmBCBc-3" value="List of items" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Tahoma;" parent="1" vertex="1">
-          <mxGeometry x="520" y="120" width="140" height="180" as="geometry">
+          <mxGeometry x="520" y="120" width="140" height="120" as="geometry">
             <mxRectangle x="520" y="120" width="100" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jzNnugBUa8Sxr_mmBCBc-4" value="Rusty Prybar" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;horizontal=1;" parent="jzNnugBUa8Sxr_mmBCBc-3" vertex="1">
+        <mxCell id="jzNnugBUa8Sxr_mmBCBc-5" value="Rusty Makarov" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;horizontal=1;" parent="jzNnugBUa8Sxr_mmBCBc-3" vertex="1">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jzNnugBUa8Sxr_mmBCBc-5" value="Rusty Makarov" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;horizontal=1;" parent="jzNnugBUa8Sxr_mmBCBc-3" vertex="1">
+        <mxCell id="jzNnugBUa8Sxr_mmBCBc-7" value="RPG" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;horizontal=1;" parent="jzNnugBUa8Sxr_mmBCBc-3" vertex="1">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jzNnugBUa8Sxr_mmBCBc-6" value="Medkit" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;horizontal=1;" parent="jzNnugBUa8Sxr_mmBCBc-3" vertex="1">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jzNnugBUa8Sxr_mmBCBc-7" value="Portable Energy Holder" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;horizontal=1;" parent="jzNnugBUa8Sxr_mmBCBc-3" vertex="1">
-          <mxGeometry y="120" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="jzNnugBUa8Sxr_mmBCBc-8" value="UV-Light" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;horizontal=1;" parent="jzNnugBUa8Sxr_mmBCBc-3" vertex="1">
-          <mxGeometry y="150" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jzNnugBUa8Sxr_mmBCBc-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzNnugBUa8Sxr_mmBCBc-10" target="OVItRbxoTBf1ethGUC-Q-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -141,15 +115,15 @@
         <mxCell id="MONSNDeDBv9v0uFeOozm-18" value="There is a lot of carbon monoxide that can kill you" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" parent="1" vertex="1">
           <mxGeometry x="520" y="360" width="140" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="7Y2TvZWWYKGCcJUMAK7M-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7Y2TvZWWYKGCcJUMAK7M-1">
+        <mxCell id="7Y2TvZWWYKGCcJUMAK7M-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7Y2TvZWWYKGCcJUMAK7M-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="840" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7Y2TvZWWYKGCcJUMAK7M-1" value="Unlucky&amp;nbsp;&lt;div&gt;Street&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="7Y2TvZWWYKGCcJUMAK7M-1" value="Unlucky&amp;nbsp;&lt;div&gt;Street&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="305" y="760" width="70" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Y2TvZWWYKGCcJUMAK7M-5" value="This is a street located right on the facility, which did not end up being a good idea. The house was built in 1996 as a first and last try for populating the island, everyone left as soon as the outbreak started." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7Y2TvZWWYKGCcJUMAK7M-5" value="This is a street located right on the facility, which did not end up being a good idea. The house was built in 1996 as a first and last try for populating the island, everyone left as soon as the outbreak started." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="840" width="120" height="200" as="geometry" />
         </mxCell>
       </root>
