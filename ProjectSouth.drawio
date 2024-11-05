@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Strona-1" id="uI2bXab8AUj78JsQwhyn">
-    <mxGraphModel dx="724" dy="360" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="690" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="OVItRbxoTBf1ethGUC-Q-4" value="Energy" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Tahoma;horizontal=1;" parent="1" source="OVItRbxoTBf1ethGUC-Q-1" target="OVItRbxoTBf1ethGUC-Q-5" edge="1">
-          <mxGeometry x="-0.004" y="-1" relative="1" as="geometry">
+          <mxGeometry x="0.1998" relative="1" as="geometry">
             <mxPoint x="260" y="200" as="targetPoint" />
             <Array as="points">
               <mxPoint x="260" y="140" />
@@ -13,32 +13,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="7_wv2ANZBzSNVEN-zXvX-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OVItRbxoTBf1ethGUC-Q-1" target="7_wv2ANZBzSNVEN-zXvX-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7_wv2ANZBzSNVEN-zXvX-10" value="Grapple Hook&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7_wv2ANZBzSNVEN-zXvX-9">
+          <mxGeometry x="0.1255" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="OVItRbxoTBf1ethGUC-Q-1" value="Main Mechanics&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;horizontal=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="120" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OVItRbxoTBf1ethGUC-Q-5" value="Energy Replenishes itself after using a energy holder" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;horizontal=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="180" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="jzNnugBUa8Sxr_mmBCBc-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OVItRbxoTBf1ethGUC-Q-8" target="jzNnugBUa8Sxr_mmBCBc-10" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="120" y="360" as="targetPoint" />
-            <mxPoint x="130" y="330" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MONSNDeDBv9v0uFeOozm-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="OVItRbxoTBf1ethGUC-Q-8" target="MONSNDeDBv9v0uFeOozm-9" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="540" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="20" y="280" />
-              <mxPoint x="20" y="500" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="OVItRbxoTBf1ethGUC-Q-8" value="Energy Holders are located at the &quot;The deadman&#39;s mountains&quot; but have a chance to spawn in a ches&lt;span style=&quot;background-color: initial;&quot;&gt;t&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;horizontal=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="240" width="150" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="OVItRbxoTBf1ethGUC-Q-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.473;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="OVItRbxoTBf1ethGUC-Q-5" target="OVItRbxoTBf1ethGUC-Q-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="OVItRbxoTBf1ethGUC-Q-5" value="Allows sprinting, replenishes after 5 seconds." style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;horizontal=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jzNnugBUa8Sxr_mmBCBc-3" value="List of items" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Tahoma;" parent="1" vertex="1">
           <mxGeometry x="520" y="120" width="140" height="120" as="geometry">
@@ -54,77 +41,40 @@
         <mxCell id="jzNnugBUa8Sxr_mmBCBc-6" value="Medkit" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontFamily=Tahoma;horizontal=1;" parent="jzNnugBUa8Sxr_mmBCBc-3" vertex="1">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jzNnugBUa8Sxr_mmBCBc-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzNnugBUa8Sxr_mmBCBc-10" target="OVItRbxoTBf1ethGUC-Q-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="jzNnugBUa8Sxr_mmBCBc-10" value="There are also portable energy holders that are limited in the quanity" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="360" width="150" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="jzNnugBUa8Sxr_mmBCBc-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzNnugBUa8Sxr_mmBCBc-14" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="260" y="360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jzNnugBUa8Sxr_mmBCBc-16" value="The use of them" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="jzNnugBUa8Sxr_mmBCBc-15" vertex="1" connectable="0">
-          <mxGeometry x="0.1408" relative="1" as="geometry">
-            <mxPoint y="-8" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MONSNDeDBv9v0uFeOozm-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="jzNnugBUa8Sxr_mmBCBc-14" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MONSNDeDBv9v0uFeOozm-2" value="What for" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="MONSNDeDBv9v0uFeOozm-1" vertex="1" connectable="0">
-          <mxGeometry x="-0.0424" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jzNnugBUa8Sxr_mmBCBc-14" value="UV-Lights" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="320" y="280" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="jzNnugBUa8Sxr_mmBCBc-17" value="To use the light u need to take it out and press LMB after which you have to wait 10 seconds and it will turn on" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="360" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="MONSNDeDBv9v0uFeOozm-3" value="Scares off bots that escaped the facility, the friendly ones are not touched" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="360" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="MONSNDeDBv9v0uFeOozm-4" value="" style="html=1;whiteSpace=wrap;shape=isoCube2;backgroundOutline=1;isoAngle=15;" parent="1" vertex="1">
           <mxGeometry x="760" y="120" width="40" height="1700" as="geometry" />
         </mxCell>
         <mxCell id="MONSNDeDBv9v0uFeOozm-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="MONSNDeDBv9v0uFeOozm-9" target="MONSNDeDBv9v0uFeOozm-11" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="550" as="targetPoint" />
-            <mxPoint x="360" y="500" as="sourcePoint" />
+            <mxPoint x="420" y="350" as="targetPoint" />
+            <mxPoint x="360" y="300" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MONSNDeDBv9v0uFeOozm-9" value="Deadman&#39;s mountains" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="320" y="480" width="40" height="40" as="geometry" />
+        <mxCell id="7_wv2ANZBzSNVEN-zXvX-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MONSNDeDBv9v0uFeOozm-9" target="7_wv2ANZBzSNVEN-zXvX-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MONSNDeDBv9v0uFeOozm-9" value="SouthTech Facility" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="320" y="280" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MONSNDeDBv9v0uFeOozm-11" value="They are located at the south of the map, this is where the original facility located, after the outbreak, it was abandoned by humans and is packed with bots" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="560" width="120" height="200" as="geometry" />
-        </mxCell>
-        <mxCell id="MONSNDeDBv9v0uFeOozm-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MONSNDeDBv9v0uFeOozm-18" target="MONSNDeDBv9v0uFeOozm-9" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="500" y="415" />
-              <mxPoint x="500" y="500" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MONSNDeDBv9v0uFeOozm-18" value="There is a lot of carbon monoxide that can kill you" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" parent="1" vertex="1">
-          <mxGeometry x="520" y="360" width="140" height="110" as="geometry" />
+          <mxGeometry x="280" y="360" width="120" height="200" as="geometry" />
         </mxCell>
         <mxCell id="7Y2TvZWWYKGCcJUMAK7M-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7Y2TvZWWYKGCcJUMAK7M-1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="840" as="targetPoint" />
+            <mxPoint x="420" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7Y2TvZWWYKGCcJUMAK7M-1" value="Unlucky&amp;nbsp;&lt;div&gt;Street&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="305" y="760" width="70" height="40" as="geometry" />
+        <mxCell id="7Y2TvZWWYKGCcJUMAK7M-1" value="Enksburg&amp;nbsp;&lt;div&gt;Street&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="300" y="600" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7Y2TvZWWYKGCcJUMAK7M-5" value="This is a street located right on the facility, which did not end up being a good idea. The house was built in 1996 as a first and last try for populating the island, everyone left as soon as the outbreak started." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="840" width="120" height="200" as="geometry" />
+          <mxGeometry x="360" y="680" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="7_wv2ANZBzSNVEN-zXvX-4" value="A weird device made for older models of AA robots from year 2645." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7_wv2ANZBzSNVEN-zXvX-14" value="The area is infested with protogen furrys" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
