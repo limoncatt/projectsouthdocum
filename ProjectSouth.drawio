@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="Strona-1" id="uI2bXab8AUj78JsQwhyn">
-    <mxGraphModel dx="690" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="612" dy="416" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,10 +13,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7_wv2ANZBzSNVEN-zXvX-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OVItRbxoTBf1ethGUC-Q-1" target="7_wv2ANZBzSNVEN-zXvX-4">
+        <mxCell id="7_wv2ANZBzSNVEN-zXvX-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OVItRbxoTBf1ethGUC-Q-1" target="7_wv2ANZBzSNVEN-zXvX-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7_wv2ANZBzSNVEN-zXvX-10" value="Grapple Hook&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7_wv2ANZBzSNVEN-zXvX-9">
+        <mxCell id="7_wv2ANZBzSNVEN-zXvX-10" value="Grapple Hook&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="7_wv2ANZBzSNVEN-zXvX-9" vertex="1" connectable="0">
           <mxGeometry x="0.1255" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -50,7 +50,7 @@
             <mxPoint x="360" y="300" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7_wv2ANZBzSNVEN-zXvX-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MONSNDeDBv9v0uFeOozm-9" target="7_wv2ANZBzSNVEN-zXvX-14">
+        <mxCell id="7_wv2ANZBzSNVEN-zXvX-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MONSNDeDBv9v0uFeOozm-9" target="7_wv2ANZBzSNVEN-zXvX-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MONSNDeDBv9v0uFeOozm-9" value="SouthTech Facility" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -67,13 +67,13 @@
         <mxCell id="7Y2TvZWWYKGCcJUMAK7M-1" value="Enksburg&amp;nbsp;&lt;div&gt;Street&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="300" y="600" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7Y2TvZWWYKGCcJUMAK7M-5" value="This is a street located right on the facility, which did not end up being a good idea. The house was built in 1996 as a first and last try for populating the island, everyone left as soon as the outbreak started." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="7Y2TvZWWYKGCcJUMAK7M-5" value="This is a street located right on the facility, which did not end up being a good idea. The house was built in 1996 as a first and a last try for populating the island, everyone left as soon as the outbreak started." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="680" width="120" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="7_wv2ANZBzSNVEN-zXvX-4" value="A weird device made for older models of AA robots from year 2645." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7_wv2ANZBzSNVEN-zXvX-4" value="A weird device made for older models of AA robots from year 2645." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7_wv2ANZBzSNVEN-zXvX-14" value="The area is infested with protogen furrys" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7_wv2ANZBzSNVEN-zXvX-14" value="The area is infested with protogen furrys" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="280" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
